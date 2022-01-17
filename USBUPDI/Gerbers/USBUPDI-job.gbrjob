@@ -7,20 +7,20 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.9)-1"
     },
-    "CreationDate":  "2022-01-17T18:14:23-05:00"
+    "CreationDate":  "2022-01-17T18:13:00-05:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "Dev16x4USB",
-      "GUID": "44657631-3678-4345-9553-422e6b696361",
+      "Name": "USBUPDI",
+      "GUID": "55534255-5044-4492-9e6b-696361645f70",
       "Revision": "rev?"
     },
     "Size":
     {
-      "X": 20.878,
-      "Y": 35.610
+      "X": 21.386,
+      "Y": 22.910
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
@@ -40,47 +40,47 @@
   "FilesAttributes":
   [
     {
-      "Path":  "Dev16x4USB-F_Cu.gbr",
+      "Path":  "USBUPDI-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "Dev16x4USB-B_Cu.gbr",
+      "Path":  "USBUPDI-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "Dev16x4USB-F_Paste.gbr",
+      "Path":  "USBUPDI-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "Dev16x4USB-B_Paste.gbr",
+      "Path":  "USBUPDI-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "Dev16x4USB-F_SilkS.gbr",
+      "Path":  "USBUPDI-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "Dev16x4USB-B_SilkS.gbr",
+      "Path":  "USBUPDI-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "Dev16x4USB-F_Mask.gbr",
+      "Path":  "USBUPDI-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "Dev16x4USB-B_Mask.gbr",
+      "Path":  "USBUPDI-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "Dev16x4USB-Edge_Cuts.gbr",
+      "Path":  "USBUPDI-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
